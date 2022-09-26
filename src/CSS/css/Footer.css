@@ -1,0 +1,9 @@
+.cv-footer {
+    text-align: center;
+    background: black;
+    color: #fff;
+    padding-top: 10px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
