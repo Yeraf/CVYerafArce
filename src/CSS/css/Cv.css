@@ -1,3 +1,7 @@
+.main-contenedor-all {
+    margin-top: 100px;
+}
+
 .main-cv-complete {
     width: 70%;
     height: 400px;
@@ -29,6 +33,11 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-/* .main-contenedor-all {
+.article-cv-experiencia {
+    width: 70%;
+    height: 300px;
+    margin: auto;
     margin-top: 30px;
-} */
+    background: linear-gradient( black ,rgb(46, 46, 46), rgb(155, 158, 155));
+    color: aliceblue;
+}

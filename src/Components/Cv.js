@@ -22,24 +22,10 @@ function Cv() {
           <div className='article-cv-experiencia'>
             <h1>Experiencia Loboral</h1>
             <h2><b>Noah Systems</b></h2>
-            <p>Lorem
-            Lorem
-            Lorem
-            <br></br>
-            Lorem
-            <br></br>
-            Loremv
-            <br></br>
-            Lorem
-            <br></br>
-            Lorem
-            <br></br>
-            LoremLore
-            <br></br>m
-            Lorem
-            <br></br>
-            <br></br>
-            </p>
+            <p>5 años</p>
+            <p>Inicio 2017 / Actual</p>
+            <p>Puesto soporte técnico en sistema de facturación PDV</p>
+            <p>Desarrollo trabajos de soporte y asistencia a un sistema de facturación PDV, reparación de computadores, mantenimiento y todo lo relacionado.</p>
           </div>
       </article>
     </div>
