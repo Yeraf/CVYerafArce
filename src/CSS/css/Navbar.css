@@ -1,0 +1,27 @@
+.navbar.navbar-expand-lg.navbar-dark.bg-primary {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.lama-navbar {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.nav-link.active {
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+
+.nav-link.active:hover {
+    background-color: rgb(19, 41, 41);
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+    transition: 0.6s all;
+}

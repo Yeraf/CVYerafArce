@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "../CSS/css/Navbar.css";
+import Lama from "../Img/llama1.png";
 
 function Navbar() {
   return (
@@ -7,7 +9,7 @@ function Navbar() {
       <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
             <Link className="navbar-brand" to="/">
-                Navbar
+                <img className="lama-navbar" src={Lama}></img>
             </Link>
           <button
             class="navbar-toggler"
@@ -19,8 +21,8 @@ function Navbar() {
             aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarColor01">
-            <ul class="navbar-nav me-auto">
+          <div className="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav me-auto mx-auto">
               <li class="nav-item">
                 <Link class="nav-link active" to="/">
                   Home
