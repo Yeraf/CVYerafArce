@@ -30,3 +30,35 @@
     box-shadow: 2px 2px 8px 5px #000;
 }
 
+.article-home-2 {
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+    color: white;
+    background: linear-gradient( rgb(124, 126, 124), rgb(46, 46, 46),black);
+}
+
+.article-home-all {
+    display: flex;
+}
+
+.article-home-text {
+    width: 60%;
+    padding-top: 120px;
+}
+
+.home-text-only {
+    width: 80%;
+    margin: auto;
+}
+
+.home-text-only h1 {
+    padding-bottom: 40px;
+}
+
+.home-text-only p {
+    text-align: justify;
+    font-size: 20px;
+}
