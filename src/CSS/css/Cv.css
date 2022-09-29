@@ -82,7 +82,7 @@
     margin-bottom: 30px;
     border-radius: 20px;
     padding: 30px 20px 30px 20px;
-    background-color:  rgb(124, 126, 124);
+    background: linear-gradient( rgb(124, 126, 124), rgb(46, 46, 46),black);
 }
 
 .article-cv-container {
@@ -111,4 +111,15 @@
 
 .card {
     max-width: 20rem;
+}
+
+.icon-cv {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.cv-idiomas {
+    color: white;
+    margin-bottom: 30px;
 }

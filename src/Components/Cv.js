@@ -1,10 +1,11 @@
 import React from "react";
 import "../CSS/css/Cv.css";
 import MiFoto from "../Img/Cv/MiFoto.jpeg";
-import Lenguajes from "../Img/Cv/web-frontend.png";
+import Lenguajes from "../Img/Cv/Front-end-img.png";
 import Frameworks from "../Img/Cv/JavaScript-Frameworks.jpg";
 import Bases from "../Img/Cv/base-de-datos.jpg";
 import Otros from "../Img/Cv/redes-de-computadoras.jpg";
+import Icon from  "../Img/Icons/global.png";
 
 function Cv() {
   return (
@@ -74,7 +75,7 @@ function Cv() {
             <div class="card-body">
             <img className="img-cv" src={Frameworks}></img>
               <p class="card-text">
-              Se utilizar e implemetar algunos frameworks como: Bootstrap, Bootswatch, React, Angular, Vue, Github entre otros.
+              Se utilizar e implemetar algunos frameworks como: Bootstrap, Bootswatch, React, Angular, Vue; paginas como Github entre otros.
               </p>
             </div>
           </div>
@@ -97,6 +98,13 @@ function Cv() {
               </p>
             </div>
           </div>
+        </div>
+      </article>
+      <article>
+        <div className="cv-idiomas">
+          <h1>Idiomas</h1>
+          <h5 className="cv-h5-icon"><img className="icon-cv" src={Icon}></img> Inglés 60% (intermedio)</h5>
+          <h5 className="cv-h5-icon"><img className="icon-cv" src={Icon}></img> Español (nativo)</h5>
         </div>
       </article>
     </div>

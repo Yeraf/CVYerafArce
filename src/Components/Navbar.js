@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../CSS/css/Navbar.css";
-import Lama from "../Img/llama1.png";
+import Lama from "../Img/Icons/llama1.png";
 
 function Navbar() {
   return (
@@ -25,7 +25,7 @@ function Navbar() {
             <ul class="navbar-nav me-auto mx-auto">
               <li class="nav-item">
                 <Link class="nav-link active" to="/">
-                  Home
+                  Acerca de Mi
                 </Link>
               </li>
               <li class="nav-item">
