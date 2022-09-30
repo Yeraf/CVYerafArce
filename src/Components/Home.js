@@ -1,7 +1,7 @@
 import React from "react";
 import "../CSS/css/Home.css";
 import Estudios from "../Img/Home/estudios-universitarios.jpg";
-import MiFoto from "../Img/Home/Mi-foto-2.jpeg";
+import MiFoto from "../Img/Home/Mi-foto-1.jpeg";
 
 function Home() {
   return (
