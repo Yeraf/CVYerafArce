@@ -6,6 +6,8 @@ import Frameworks from "../Img/Cv/JavaScript-Frameworks.jpg";
 import Bases from "../Img/Cv/base-de-datos.jpg";
 import Otros from "../Img/Cv/redes-de-computadoras.jpg";
 import Icon from  "../Img/Icons/global.png";
+import { Roll } from "react-reveal";
+import Jump from 'react-reveal/Jump';
 
 function Cv() {
   return (
@@ -61,6 +63,7 @@ function Cv() {
       <article className="article-cv-cards">
         <h1 className="cv-h1-conocimientos">Conocimientos</h1>
         <div className="article-cv-container">
+          <Jump>
           <div className="card text-white bg-secondary mb-3 cv-card-only">
             <div class="card-header">Lenguajes</div>
             <div class="card-body">
@@ -70,6 +73,8 @@ function Cv() {
               </p>
             </div>
           </div>
+          </Jump>
+          <Jump>
           <div className="card text-white bg-secondary mb-3 cv-card-only">
             <div class="card-header">Frameworks</div>
             <div class="card-body">
@@ -79,6 +84,8 @@ function Cv() {
               </p>
             </div>
           </div>
+          </Jump>
+          <Jump>
           <div className="card text-white bg-secondary mb-3 cv-card-only">
             <div class="card-header">Bases Datos</div>
             <div class="card-body">
@@ -88,6 +95,8 @@ function Cv() {
               </p>
             </div>
           </div>
+          </Jump>
+          <Jump>
           <div className="card text-white bg-secondary mb-3 cv-card-only">
             <div class="card-header">Otros</div>
             <div class="card-body">
@@ -98,6 +107,7 @@ function Cv() {
               </p>
             </div>
           </div>
+          </Jump>
         </div>
       </article>
       <article>

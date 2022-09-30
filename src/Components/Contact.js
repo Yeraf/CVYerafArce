@@ -32,12 +32,12 @@ function Contact() {
               <div className="referencias-div-1">
                 <h3>Jeffrey Sequeira Araya</h3>
                 <h5>Dueño de empresa Noah Systems</h5>
-                <h3>+506 8682-8012</h3>
+                <h5>+506 8682-8012</h5>
               </div>
               <div className="referencias-div-2">
                 <h3>Joshua Vargas Cubillo</h3>
                 <h5>Compañero de trabajo</h5>
-                <h3>+506 8361-3896</h3>
+                <h5>+506 8361-3896</h5>
               </div>
             </div>
           </div>
