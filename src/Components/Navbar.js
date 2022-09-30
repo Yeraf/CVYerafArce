@@ -25,12 +25,12 @@ function Navbar() {
             <ul class="navbar-nav me-auto mx-auto">
               <li class="nav-item">
                 <Link class="nav-link active" to="/">
-                  Acerca de Mi
+                  Cv
                 </Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-link active" to="/cv">
-                  CV
+                <Link class="nav-link active" to="/home">
+                Acerca de Mi
                 </Link>
               </li>
               <li class="nav-item">

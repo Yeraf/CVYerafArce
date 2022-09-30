@@ -18,7 +18,7 @@ function Home() {
           </p>
           <h4><b>Curso en línea HTML5 (Udemy)</b></h4>
           <p>Se impartió el 21 de Diciembre del 2022, un total de 6 horas.</p>
-          <h4><b>Master en desarrollo Web Front end developer (VLA Academy)</b></h4>
+          <h4><b>Master en desarrollo Web Front end development (VLA Academy)</b></h4>
           <p>
             Se impartió del mes de Febrero 2022 al mes de Septiembre del 2022,
             para un total de 8 meses aproximados.
