@@ -57,14 +57,9 @@ function Navbar() {
               </li>
             </ul>
             <form class="d-flex">
-              <input
-                class="form-control me-sm-2"
-                type="text"
-                placeholder="Search"
-              ></input>
-              <button class="btn btn-secondary my-2 my-sm-0" type="submit">
-                Search
-              </button>
+                {/* <button to="/Pdf" class="btn btn-info my-2 my-sm-0" type="">
+                  Descargar PDF Curriculum
+                </button> */}
             </form>
           </div>
         </div>
