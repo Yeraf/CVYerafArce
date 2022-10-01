@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CVYerafArce/static/css/main.69ed3163.css",
+    "main.js": "/CVYerafArce/static/js/main.fa5081c9.js",
+    "static/js/787.d316d867.chunk.js": "/CVYerafArce/static/js/787.d316d867.chunk.js",
+    "static/media/Front-end-img.png": "/CVYerafArce/static/media/Front-end-img.43f3edb56f711b6805cb.png",
+    "static/media/Demo-web.JPG": "/CVYerafArce/static/media/Demo-web.a0af368d6f531c38d909.JPG",
+    "static/media/redes-de-computadoras.jpg": "/CVYerafArce/static/media/redes-de-computadoras.1059c88ca95733858997.jpg",
+    "static/media/JavaScript-Frameworks.jpg": "/CVYerafArce/static/media/JavaScript-Frameworks.33d90df4f28e4b615cae.jpg",
+    "static/media/Curriculum-personal.JPG": "/CVYerafArce/static/media/Curriculum-personal.2f3d34c5a871004926b5.JPG",
+    "static/media/base-de-datos.jpg": "/CVYerafArce/static/media/base-de-datos.d7be5896d559b19a54e7.jpg",
+    "static/media/Mi-foto-1.jpeg": "/CVYerafArce/static/media/Mi-foto-1.23002f006a161d3672c4.jpeg",
+    "static/media/estudios-universitarios.jpg": "/CVYerafArce/static/media/estudios-universitarios.79a1c7c837d97da0e2af.jpg",
+    "static/media/MiFoto.jpeg": "/CVYerafArce/static/media/MiFoto.412374b88a1fc7a66e64.jpeg",
+    "static/media/location.png": "/CVYerafArce/static/media/location.f06ac9be84a387b96d1f.png",
+    "static/media/whatsapp-green.png": "/CVYerafArce/static/media/whatsapp-green.76013e2bdb5b74f33fb9.png",
+    "static/media/global.png": "/CVYerafArce/static/media/global.4e9d0e1f47f96305b9aa.png",
+    "static/media/fondo-6.jpg": "/CVYerafArce/static/media/fondo-6.24aa36f8c6e1b954db33.jpg",
+    "static/media/llama1.png": "/CVYerafArce/static/media/llama1.ebe0f393fe6280dc4988.png",
+    "static/media/gmail.png": "/CVYerafArce/static/media/gmail.a2f2146f929409405da0.png",
+    "index.html": "/CVYerafArce/index.html",
+    "main.69ed3163.css.map": "/CVYerafArce/static/css/main.69ed3163.css.map",
+    "main.fa5081c9.js.map": "/CVYerafArce/static/js/main.fa5081c9.js.map",
+    "787.d316d867.chunk.js.map": "/CVYerafArce/static/js/787.d316d867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ed3163.css",
+    "static/js/main.fa5081c9.js"
+  ]
+}
