@@ -1,6 +1,6 @@
 import "./App.css";
 import "./CSS/cssbootswatch/bootstrap.css";
-import { Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./Components/Home";
 import Cv from "./Components/Cv";
 import Contacto from "./Components/Contact";
@@ -10,7 +10,8 @@ import Portafolio from "./Components/Portafolio";
 
 function App() {
   return (
-    <div className="App">
+    // <div className="App">
+      <BrowserRouter>
       <Navbar/>
       <Routes>
         <Route exact path="/" element={<Cv />} />
@@ -19,7 +20,8 @@ function App() {
         <Route exact path="/portafolio" element={<Portafolio />} />
       </Routes>
       <Footer/>
-    </div>
+      </BrowserRouter>
+    // </div>
   );
 }
 
