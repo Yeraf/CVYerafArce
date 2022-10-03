@@ -19,7 +19,7 @@ function Portafolio() {
                     <h3>Curriculum Personal</h3>
                     <img className='portafolio-img' src={Curriculum}></img>
                     <br></br>
-                    <a className='portafolio-link-a' href='https://yeraf.github.io/YokuDemoVLAWeb/' target="_blank">Ver Página</a>
+                    <a className='portafolio-link-a' href='https://yeraf.github.io/CVYerafArce/' target="_blank">Ver Página</a>
                 </div>
             </div>
         </article>
