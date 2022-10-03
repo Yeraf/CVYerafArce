@@ -1,0 +1,55 @@
+.container-principal {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 15%;
+}
+
+.content-border {
+    position: relative;
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(red, green, white, yellow, pink);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: rotateback 3s linear infinite;
+}
+
+@keyframes rotateback {
+    0% {
+        background: linear-gradient(red, green, white, yellow, pink);
+    }
+    25% {
+        background: linear-gradient(green, red, white, yellow, pink);
+    }
+    50% {
+        background: linear-gradient(white, green, red,  yellow, pink);
+    }
+    75% {
+        background: linear-gradient(yellow, white, red, green, pink);
+    }
+    100% {
+        background: linear-gradient(pink, red,yellow, green, white, );
+    }
+}
+
+.content-border::before {
+    content: '';
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    bottom: 8px;
+    right: 8px;
+    background: #000;
+}
+
+.content-border .text-principal {
+    width: 600px;
+    z-index: 1;
+    text-align: center;
+}
+
+.sometxt {
+    color: white;
+}
