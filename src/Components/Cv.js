@@ -53,7 +53,7 @@ function Cv() {
             <p className="cv-text-p">
               Llevé un curso Front end intensivo de 8 meses aproximados en la
               academia VLA Academy el cual aprendí HTML, CSS, JavaScript,
-              frameworks como Angular, React, VUE, Bootstrap, Bootswatch, Github
+              frameworks o librerías como Angular, React, VUE, Bootstrap, Bootswatch, Github
               entre otros frameworks y tecnologías. Actualmente estudio Ing en
               software en la Universidad Internacional de las Americas (UIA).
             </p>

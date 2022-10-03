@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import "../CSS/css/Home.css";
 import Estudios from "../Img/Home/estudios-universitarios.jpg";
 import MiFoto from "../Img/Home/Mi-foto-1.jpeg";

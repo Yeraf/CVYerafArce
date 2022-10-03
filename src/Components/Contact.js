@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import "../CSS/css/Contacto.css";
 import Numero from "../Img/Icons/whatsapp-green.png";
 import Face from "../Img/Icons/facebook.png";

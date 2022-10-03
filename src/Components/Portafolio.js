@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import "../CSS/css/Portafolio.css";
 import Pagina from "../Img/Portafolio/Demo-web.JPG";
 import Curriculum from "../Img/Portafolio/Curriculum-personal.JPG";
