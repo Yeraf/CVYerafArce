@@ -9,6 +9,7 @@ function SisRoutes() {
   return (
     <Routes>
       <Route exact index path="/" element={<Cv />} />
+      <Route exact index path="/CVYerafArce/" element={<Cv />} />
       <Route exact path="/home" element={<Home />} />
       <Route exact path="/contacto" element={<Contacto />} />
       <Route exact path="/portafolio" element={<Portafolio />} />
